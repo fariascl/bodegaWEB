@@ -1,5 +1,5 @@
 # bodegaWEB
-Front-end en [Vite + ReactJS](https://vitejs.dev/guide/) de prueba técnica de postulación a Mundo.
+Front-end en [Vite + ReactJS](https://vitejs.dev/guide/) de prueba técnica de reclutamiento a Mundo.
 
 IMPORTANTE: Para que el proyecto funcione correctamente, es necesario instalar y arrancar la [bodegaAPI](https://github.com/fariascl/bodegaAPI).
 
